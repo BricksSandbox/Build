@@ -11,6 +11,5 @@ contract("ERC20TokenBefore", async accounts => {
 
     //assert.notEqual(newSupply, coinSupply, "assetion here")
 
-
  })
 });
